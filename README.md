@@ -2,7 +2,7 @@
 - 👀 I’m interested in Robotics and AI
 - 🌱 I’m currently learning CSE221
 - 💞️ I’m looking to collaborate on AI
-- 📫 How to reach me sunjana.shashee.03@GMAIL.COM
+- 📫 How to reach me sunjana.shashee.03@gmail.com
 - 😄 Pronouns: She
 - ⚡ Fun fact: Quite Lazy 
 
