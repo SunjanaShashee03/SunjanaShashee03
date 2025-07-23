@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SunjanaShashee03
 - 👀 I’m interested in Robotics and AI
-- 🌱 I’m currently learning CSE221
+- 🌱 I’m currently studing CSE in Brac University 
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me sunjana.shashee.03@gmail.com
 - 😄 Pronouns: She
